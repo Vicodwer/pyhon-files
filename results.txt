@@ -1,0 +1,8 @@
+Weather Analysis Results
+------------------------
+Temperature Average: 34.3
+Temperature Median: 34.0
+Humidity Average: 61.4
+Humidity Median: 61.5
+AQI Average: 119.4
+AQI Median: 118.5
